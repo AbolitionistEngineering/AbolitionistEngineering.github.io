@@ -1,0 +1,22 @@
+baseURL: https://abolitionistengineering.github.io/
+languageCode: en-us
+params:
+  contact:
+    email: drnikki@mit.edu
+  subtitle: Using software engineering to support new worlds.
+title: Abolitionist Engineering
+
+theme: ananke
+
+sectionPagesMenu: main
+
+
+services:
+  googleAnalytics:
+    ID: G-WY8TTH8FRE
+
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
